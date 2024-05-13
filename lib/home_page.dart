@@ -157,7 +157,7 @@ class _Home_pageState extends State<Home_page> {
                   ]
               ),
 
-SizedBox(height: 15,),
+              SizedBox(height: 15,),
 
               Stack(
                   children: [
